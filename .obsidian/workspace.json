@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "de1efc5f36965de3",
+        "id": "00861fbff01cd752",
         "type": "tabs",
         "children": [
           {
-            "id": "4dd6b9b6dd6945c3",
+            "id": "6870d44a2ca381a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/Dairy/2024-07-04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Dairy/2024-07-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Dairy/2024-07-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "docs/Dairy/2024-07-04.md"
+              }
+            }
+          },
+          {
+            "id": "2db17c0c27e93a7c",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4dd6b9b6dd6945c3",
-  "lastOpenFiles": []
+  "active": "e8da21c48752cdef",
+  "lastOpenFiles": [
+    "docs/img/slide_window_kernel_patch.drawio.svg",
+    "docs/AI Compiler",
+    "docs/img",
+    "未命名",
+    "docs/Dairy/2024-07-04.md"
+  ]
 }
