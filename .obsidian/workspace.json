@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4667df2ed0c94e7",
+            "id": "3036258224045883",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,10 +157,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e4667df2ed0c94e7",
+  "active": "3036258224045883",
   "lastOpenFiles": [
-    "docs/Dairy/2024-07-04.md",
+    "docs/img/slide_window_kernel_patch_info.drawio.svg",
+    "docs/img/Drawing 2024-07-05 09.08.37.excalidraw.md",
     "docs/AI Compiler/算子工厂.md",
+    "docs/Dairy/2024-07-04.md",
     "Excalidraw/Drawing 2024-07-04 20.16.56.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
